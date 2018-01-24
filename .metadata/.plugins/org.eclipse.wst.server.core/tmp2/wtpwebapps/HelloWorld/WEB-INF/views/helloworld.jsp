@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Hello Spring</title>
 </head>
-<body>
+<body alink="red" vlink="blue">
 	<center>
 		<h2>Hello World</h2>
 		<h2>

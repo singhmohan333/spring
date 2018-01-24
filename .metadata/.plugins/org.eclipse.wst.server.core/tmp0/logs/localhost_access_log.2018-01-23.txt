@@ -156,3 +156,6 @@
 0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:26:31 +0530] "GET /ApplicationMvc/ HTTP/1.1" 200 354
 0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:26:33 +0530] "GET /ApplicationMvc/Servlet HTTP/1.1" 200 17
 0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:27:22 +0530] "GET /ApplicationMvc/Servlet HTTP/1.1" 200 17
+127.0.0.1 - - [23/Jan/2018:21:32:37 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:21:32:38 +0530] "GET /ApplicationMvc/ HTTP/1.1" 200 354
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:21:32:40 +0530] "GET /ApplicationMvc/Servlet HTTP/1.1" 200 17

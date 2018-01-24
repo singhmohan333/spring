@@ -20,10 +20,6 @@ public class HelloWorldController {
 		mv.addObject("message", message);
 		mv.addObject("name", name);
 		return mv;
-		
-		
-		
-		
-	}
+		}
 
 }
