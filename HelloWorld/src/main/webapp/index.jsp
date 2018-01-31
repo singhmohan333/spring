@@ -8,7 +8,7 @@
 <center>
 		<h2>Hello Spring program</h2>
 		<h3>
-			<a href="hello/jh?name=mohan">Click Here</a>
+			<a href="hello/jh?name=">Click Here</a>
 		</h3>
 		<a href="form.jsp"> click here for fill form</a> 
 		<br>

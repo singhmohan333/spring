@@ -14,11 +14,15 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="SpringMVCFileUpload"/>
+			<item value="SpringProject"/>
 			<item value="org.greysalman"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringMVCFileUpload"/>
+			<item value="SpringProject"/>
 			<item value="SpringMvc"/>
 		</list>
 		<list key="version">
